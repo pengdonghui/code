@@ -6,3 +6,10 @@
 
 2022-10-13
 ¹ş¹ş
+
+2022-10-14
+Git is a distributed version control system.
+Git is free software.
+
+2022-10-15
+Î·Î·ËõËõ
